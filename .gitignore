@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorno / config local
+.DS_Store
+
+# Audio generado (salida de render.py) — NO se versiona, se regenera.
+*.wav
